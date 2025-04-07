@@ -1,0 +1,81 @@
+[0.010s] Invoking command in '/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/build/ti_mmwave_rospkg': CMAKE_PREFIX_PATH=/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg_msgs:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/serial:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg:/opt/ros/humble LD_LIBRARY_PATH=/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg_msgs/lib:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/serial/lib:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/build/ti_mmwave_rospkg -- -j2 -l2
+[0.062s] [35m[1mConsolidate compiler generated dependencies of target mmwave[0m
+[0.064s] [35m[1mConsolidate compiler generated dependencies of target ConfigParameterServer[0m
+[0.084s] [ 25%] Built target ConfigParameterServer
+[0.085s] [ 33%] Built target mmwave
+[0.097s] [35m[1mConsolidate compiler generated dependencies of target mmWaveCommSrv[0m
+[0.102s] [35m[1mConsolidate compiler generated dependencies of target mmWaveQuickConfig[0m
+[0.121s] [ 50%] Built target mmWaveCommSrv
+[0.129s] [ 66%] Built target mmWaveQuickConfig
+[0.131s] [35m[1mConsolidate compiler generated dependencies of target ParameterParser[0m
+[0.145s] [35m[1mConsolidate compiler generated dependencies of target DataHandlerClass[0m
+[0.157s] [ 83%] Built target ParameterParser
+[0.189s] [100%] Built target DataHandlerClass
+[0.201s] Invoked command in '/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/build/ti_mmwave_rospkg' returned '0': CMAKE_PREFIX_PATH=/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg_msgs:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/serial:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg:/opt/ros/humble LD_LIBRARY_PATH=/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg_msgs/lib:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/serial/lib:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/build/ti_mmwave_rospkg -- -j2 -l2
+[0.201s] Invoking command in '/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/build/ti_mmwave_rospkg': CMAKE_PREFIX_PATH=/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg_msgs:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/serial:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg:/opt/ros/humble LD_LIBRARY_PATH=/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg_msgs/lib:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/serial/lib:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/build/ti_mmwave_rospkg
+[0.208s] -- Install configuration: ""
+[0.208s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/environment/library_path.sh
+[0.210s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/environment/library_path.dsv
+[0.210s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/lib/libmmwave.so
+[0.211s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/lib/ti_mmwave_rospkg/ConfigParameterServer
+[0.212s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch
+[0.212s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/rviz_old.rviz
+[0.212s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/rviz.rviz
+[0.212s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/1443_Standard.py
+[0.212s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/6843AOP_FineMotion.py
+[0.215s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/rviz_launch.py
+[0.215s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/6843AOP_Tracking.py
+[0.215s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/IWR6843.py
+[0.215s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/6843ISK_Tracking.py
+[0.215s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/__pycache__
+[0.215s] -- Installing: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/__pycache__/6843AOP_Standard.cpython-310.pyc
+[0.215s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/1642_Standard.py
+[0.215s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/6432_Classification.py
+[0.215s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/6843AOP_StaticTracking.py
+[0.215s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/6432_Standard.py
+[0.215s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/6843ISK_Standard.py
+[0.215s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/1843_Standard.py
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/6843AOP_Standard.py
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/launch/6843ISK_Occupancy.py
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/config
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/config/global_params.yaml
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/6843AOP_StaticTracking.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/6843AOP_Standard.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/6432_Standard_Uncompressed.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/1443_Standard.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/1642_Standard.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/6432_Classification.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/1843_3d_hw_trig.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/6843AOP_FineMotion.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/6843ISK_Occupancy.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/1843_Standard.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/6843ISK_Standard.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/6843ISK_Tracking.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cfg/6843AOP_Tracking.cfg
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/lib/ti_mmwave_rospkg/mmWaveCommSrv
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/lib/ti_mmwave_rospkg/mmWaveQuickConfig
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/lib/ti_mmwave_rospkg/ParameterParser
+[0.216s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/lib/ti_mmwave_rospkg/DataHandlerClass
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/include/
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/include//mmWave.h
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/include//DataHandlerClass.h
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ament_index/resource_index/package_run_dependencies/ti_mmwave_rospkg
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ament_index/resource_index/parent_prefix_path/ti_mmwave_rospkg
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/environment/ament_prefix_path.sh
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/environment/ament_prefix_path.dsv
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/environment/path.sh
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/environment/path.dsv
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/local_setup.bash
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/local_setup.sh
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/local_setup.zsh
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/local_setup.dsv
+[0.218s] -- Installing: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/package.dsv
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ament_index/resource_index/packages/ti_mmwave_rospkg
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.218s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.219s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cmake/ament_cmake_export_libraries-extras.cmake
+[0.219s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cmake/ti_mmwave_rospkgConfig.cmake
+[0.219s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/cmake/ti_mmwave_rospkgConfig-version.cmake
+[0.219s] -- Up-to-date: /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/share/ti_mmwave_rospkg/package.xml
+[0.221s] Invoked command in '/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/build/ti_mmwave_rospkg' returned '0': CMAKE_PREFIX_PATH=/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg_msgs:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/serial:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg:/opt/ros/humble LD_LIBRARY_PATH=/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg_msgs/lib:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/serial/lib:/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/install/ti_mmwave_rospkg/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/king/Research/Research4/mmwave_ti_ros/ros2_driver/build/ti_mmwave_rospkg

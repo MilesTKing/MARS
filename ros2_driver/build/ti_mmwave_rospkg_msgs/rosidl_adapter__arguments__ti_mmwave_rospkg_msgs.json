@@ -1,0 +1,16 @@
+{
+  "package_name": "ti_mmwave_rospkg_msgs",
+  "non_idl_tuples": [
+    "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/src/ti_mmwave_rospkg_msgs:msg/RadarScan.msg",
+    "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/src/ti_mmwave_rospkg_msgs:msg/RadarOccupancy.msg",
+    "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/src/ti_mmwave_rospkg_msgs:msg/RadarClassifier.msg",
+    "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/src/ti_mmwave_rospkg_msgs:msg/RadarTrackArray.msg",
+    "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/src/ti_mmwave_rospkg_msgs:msg/RadarTrackContents.msg",
+    "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/src/ti_mmwave_rospkg_msgs:msg/RadarPointTrackID.msg",
+    "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/src/ti_mmwave_rospkg_msgs:msg/RadarMicroDopplerDataArray.msg",
+    "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/src/ti_mmwave_rospkg_msgs:msg/RadarMicroDopplerDataContents.msg",
+    "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/src/ti_mmwave_rospkg_msgs:msg/RadarMicroDopplerFeatureArray.msg",
+    "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/src/ti_mmwave_rospkg_msgs:msg/RadarMicroDopplerFeatureContents.msg",
+    "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/src/ti_mmwave_rospkg_msgs:srv/MmwaveCli.srv"
+  ]
+}

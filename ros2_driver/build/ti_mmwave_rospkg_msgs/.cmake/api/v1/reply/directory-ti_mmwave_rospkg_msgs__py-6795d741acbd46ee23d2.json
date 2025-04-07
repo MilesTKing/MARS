@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "ti_mmwave_rospkg_msgs__py",
+		"source" : "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/build/ti_mmwave_rospkg_msgs/ti_mmwave_rospkg_msgs__py"
+	}
+}

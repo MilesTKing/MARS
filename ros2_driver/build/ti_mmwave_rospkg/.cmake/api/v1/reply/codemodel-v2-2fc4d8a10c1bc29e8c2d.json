@@ -1,0 +1,124 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-d69979695ed2d50bdbe4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ti_mmwave_rospkg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ConfigParameterServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ConfigParameterServer-748793d658e5b38174de.json",
+					"name" : "ConfigParameterServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataHandlerClass::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataHandlerClass-f18ee0f6ad9d87f9a6d1.json",
+					"name" : "DataHandlerClass",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ParameterParser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ParameterParser-ce14a941b93d0373a646.json",
+					"name" : "ParameterParser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mmWaveCommSrv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mmWaveCommSrv-0f35ca0310b2f12deb1b.json",
+					"name" : "mmWaveCommSrv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mmWaveQuickConfig::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mmWaveQuickConfig-4c7220bc6c518e414020.json",
+					"name" : "mmWaveQuickConfig",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mmwave::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mmwave-8109914d462ff443a996.json",
+					"name" : "mmwave",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ti_mmwave_rospkg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ti_mmwave_rospkg_uninstall-9a6cddcef292cb5ebba6.json",
+					"name" : "ti_mmwave_rospkg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-61aee2dc70cc8e934a10.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/build/ti_mmwave_rospkg",
+		"source" : "/home/king/Research/Research4/mmwave_ti_ros/ros2_driver/src/ti_mmwave_rospkg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
